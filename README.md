@@ -32,11 +32,4 @@ FE 서버·인프라 셋팅까지 직접 합니다.
 
 <br/>
 
-#### 📊 GitHub
-
-![juhee2341's stats](https://github-readme-stats.vercel.app/api?username=juhee2341&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhee2341&layout=compact&hide_border=true)
-
-<br/>
-
 📫 (dusgkrwkd@naver.com)
