@@ -1,7 +1,7 @@
-### 어 안녕하세요 👋
 
-Frontend 개발자
-FE 서버·인프라 셋팅까지 직접 합니다.
+## 안녕하세요! 나대지고 않고 꾀부리지 않겠습니다.
+
+FE
 
 🔭 요즘 만드는 것 → **[claude-code-toolkit](https://github.com/juhee2341/claude-code-toolkit)** · 여러 프로젝트에서 재사용하는 나만의 skill·agent 모음
 
@@ -28,7 +28,6 @@ FE 서버·인프라 셋팅까지 직접 합니다.
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Sonatype%20Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white)
 
-<sub>Languages · Frameworks는 모두 Production 레벨입니다.</sub>
 
 <br/>
 
