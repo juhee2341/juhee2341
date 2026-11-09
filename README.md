@@ -3,7 +3,7 @@
 
 FE
 
-🔭 요즘 만드는 것 → **[claude-code-toolkit](https://github.com/juhee2341/claude-code-toolkit)** · 여러 프로젝트에서 재사용하는 나만의 skill·agent 모음
+🔭 요즘 만드는 것 → https://daily-log-silk.vercel.app  (사실 내가 쓰려고 만듬 😁)
 
 <br/>
 
